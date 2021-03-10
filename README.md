@@ -1,5 +1,4 @@
 # expt-with-github
 
 Trying git and github
-
-Avash Mitra
+Avash Mitra 1
